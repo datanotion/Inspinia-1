@@ -1,0 +1,3 @@
+# Inspinia
+
+Bootstrap admin theme
